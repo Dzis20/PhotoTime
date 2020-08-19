@@ -1,0 +1,56 @@
+.information {
+    padding-top: 115px;
+    min-height: 270px;
+}
+.information img {
+    display: inline-block;
+    position: relative;
+    top: 7.5px;
+}
+.information-text {
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    top: -50px;
+    
+}
+
+.information h2 {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #16a085;
+    margin-bottom: 30px;
+}
+.information p {
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+.information a {
+    display: inline-block;
+    background-color: rgb(22, 160, 133);
+    width: 166px;
+    height: 49px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    line-height: 4;
+    color: #ffffff;
+    text-decoration: none;
+    letter-spacing: 1px; 
+    margin-bottom: 30px;      
+}
+
+.information span {
+    font-size: 12px;
+    color: #000000;
+    position: relative;
+    left: 5px;
+}
+.left-i {
+    margin-right: 10px;
+}

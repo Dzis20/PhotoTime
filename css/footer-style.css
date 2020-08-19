@@ -1,0 +1,44 @@
+.footer {
+    padding-top: 45px;
+}
+.footer .container {
+    position: relative;
+}
+
+ul.footer-nav {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+ul.footer-nav li {
+    display: inline-block;
+    padding: 0 10px;
+    border-right: 2px solid rgb(22, 160, 133);
+    font-weight: 700;
+    font-size: 16px;
+}
+ul.footer-nav li:first-child {
+    padding-left: 0;
+}
+ul.footer-nav li:last-child {
+    border: none;
+}
+ul.footer-nav li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(55, 55, 55);
+
+}
+
+.footer p {
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(55, 55, 55);
+}
+
+.footer img {
+    position: absolute;
+    right: 0;
+    top: -5px;
+}

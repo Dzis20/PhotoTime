@@ -1,0 +1,37 @@
+.start {
+    background: url(../img/background-phone.png);
+    padding-top: 115px;
+    min-height: 380px;
+    z-index: 1;
+}
+
+.start h2 {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #16a085;
+    margin-bottom: 30px;
+}
+
+.start p {
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+.start a {
+    display: inline-block;
+    background-color: rgb(22, 160, 133);
+    width: 166px;
+    height: 49px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    line-height: 4;
+    color: #ffffff;
+    text-decoration: none;
+    letter-spacing: 1px;   
+     
+}

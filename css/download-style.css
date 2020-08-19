@@ -1,0 +1,71 @@
+.download {
+    padding-top: 90px;
+    padding-bottom: 117px;
+    background: #f5f6f7;
+}
+
+.download h2 {
+    font-size: 20px;
+    color: rgb(55, 55, 55);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+.download p {
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1.833;
+    text-align: center;
+    color: rgb(55, 55, 55);
+    margin-bottom: 50px;  
+    font-weight: 600;
+    letter-spacing: 2px;    
+}
+
+.download a {
+    display: inline-block;
+    background-color: rgb(26, 188, 156);
+    width: 220px;
+    height: 56px;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+    line-height: 3.5;
+    padding-left: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    position: relative;
+    left: 250px;
+}
+.download i {
+    display: inline-block;
+    height: 56px;
+    width: 56px;
+    background: #16a085;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.5;
+    position: relative;
+    left: 245px;
+    top: 7px;
+    
+}
+.download .apple {
+    left: 240px;
+}
+.download .apple-i {
+    left: 235px;
+}
+
+.download .android {
+    left: 260px;
+}
+.download .android-i {
+    left: 255px;
+}
